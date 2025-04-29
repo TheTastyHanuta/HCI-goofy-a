@@ -60,3 +60,5 @@ Further notes:
 
 The date of the **exam (90 min)** will be announced in the last weeks of the semester.  
 The exam will be an **e-Exam in presence**.
+
+[Back to start](/README.md)
