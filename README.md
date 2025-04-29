@@ -95,5 +95,7 @@ There you will find the instructions, contents and videos.
 _Björn Eskofier, Syrine Slim, Madeleine Flaucher_
 
 
-- [Instructions.md](/WebPage/Instructions/page1.md)
-- [DiscussionsSessions](/WebPage/DiscussionSessions.md)
+- [Instructions](/WebPage/Instructions/page1.md)
+- [Discussions Sessions Timetable](/WebPage/DiscussionSessions.md)
+
+1. [Chapter One](/WebPage/Chapter1.md)

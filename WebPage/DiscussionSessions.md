@@ -40,3 +40,5 @@ The discussion sessions usually take place in:
 - Some main points brought up in the session will be provided, and you can **add your own notes**.
 - The resulting file is visible to **all students** and is meant for **interactive exchange**.
 - It can be used as a **semester summary** of what you find interesting in the discussion sessions.
+
+[Back to start](/README.md)
