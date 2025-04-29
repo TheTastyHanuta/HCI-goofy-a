@@ -2,7 +2,7 @@
 
 Please watch the following video:  
 🔗 [https://www.fau.tv/clip/id/41594](https://www.fau.tv/clip/id/41594)<br>
-📄 [Download PDF](../01/HCI_SS_2025_01_Introduction_To_HCI_1.pdf)  
+📄 [Download PDF](../../01/HCI_SS_2025_01_Introduction_To_HCI_1.pdf)  
 
 ---
 
@@ -10,21 +10,21 @@ Please watch the following video:
 
 Please watch the following video:  
 🔗 [https://www.fau.tv/clip/id/41605](https://www.fau.tv/clip/id/41605)<br>
-📄 [Download PDF](../01/HCI_SS_2025_01_Introduction_To_HCI_2.pdf)  
+📄 [Download PDF](../../01/HCI_SS_2025_01_Introduction_To_HCI_2.pdf)  
 
 ---
 
 # Handout: Task-Artifact Cycle & User Needs
 
 To learn about **Task-Artifact Cycle & User Needs**, download the following handout:  
-📄 [Download PDF](../01/01_TaskArtifactCycle_User%20needs.pdf)  
+📄 [Download PDF](../../01/01_TaskArtifactCycle_User%20needs.pdf)  
 
 ---
 
 # Handout: Terms & Concepts
 
 To learn about **Terms & Concepts**, download the following handout:  
-📄 [Download PDF](../01/01_Termsaamp;Concepts.pdf)
+📄 [Download PDF](../../01/01_Termsaamp;Concepts.pdf)
 
 ---
 
@@ -32,7 +32,7 @@ To learn about **Terms & Concepts**, download the following handout:
 
 Please watch the following video:  
 🔗 [https://www.fau.tv/clip/id/41599](https://www.fau.tv/clip/id/41599)<br>
-📄 [Download PDF](../01/HCI_SS_2025_01_Introduction_To_HCI_3-2.pdf)
+📄 [Download PDF](../../01/HCI_SS_2025_01_Introduction_To_HCI_3-2.pdf)
 
 
 

@@ -94,8 +94,12 @@ There you will find the instructions, contents and videos.
 **Happy learning!**  
 _Björn Eskofier, Syrine Slim, Madeleine Flaucher_
 
+---
 
 - [Instructions](/WebPage/Instructions/page1.md)
 - [Discussions Sessions Timetable](/WebPage/DiscussionSessions.md)
+- [FAQ](/WebPage/FAQ.md)
 
-1. [Chapter One](/WebPage/Chapter1.md)
+---
+
+1. [Chapter One](/WebPage/Chapters/Chapter1.md)
