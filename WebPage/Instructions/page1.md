@@ -29,5 +29,6 @@ However, to engage you in the content of the interactive session, it is importan
 The course material and ideas are mainly based on  
 **Prof. Dr. Albrecht Schmidt, Ludwig-Maximilians-Universität München**.
 
-[Next page](/WebPage/Instructions/page2.md)
+[Next page](/WebPage/Instructions/page2.md).
+
 [Back to start](/README.md)
