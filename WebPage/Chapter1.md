@@ -1,7 +1,7 @@
 # Motivation
 
 Please watch the following video:  
-🔗 [https://www.fau.tv/clip/id/41594](https://www.fau.tv/clip/id/41594)
+🔗 [https://www.fau.tv/clip/id/41594](https://www.fau.tv/clip/id/41594)<br>
 📄 [Download PDF](../01/HCI_SS_2025_01_Introduction_To_HCI_1.pdf)  
 
 ---
@@ -9,7 +9,7 @@ Please watch the following video:
 # How do we approach HCI?
 
 Please watch the following video:  
-🔗 [https://www.fau.tv/clip/id/41605](https://www.fau.tv/clip/id/41605)
+🔗 [https://www.fau.tv/clip/id/41605](https://www.fau.tv/clip/id/41605)<br>
 📄 [Download PDF](../01/HCI_SS_2025_01_Introduction_To_HCI_2.pdf)  
 
 ---
@@ -31,7 +31,7 @@ To learn about **Terms & Concepts**, download the following handout:
 # Why is Usability and User Experience Relevant?
 
 Please watch the following video:  
-🔗 [https://www.fau.tv/clip/id/41599](https://www.fau.tv/clip/id/41599)
+🔗 [https://www.fau.tv/clip/id/41599](https://www.fau.tv/clip/id/41599)<br>
 📄 [Download PDF](../01/HCI_SS_2025_01_Introduction_To_HCI_3-2.pdf)
 
 
