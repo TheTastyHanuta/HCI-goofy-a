@@ -40,7 +40,7 @@ If you have any questions regarding the HCI course:
   📧 **mad-hci@fau.de**
 - We will **not** answer questions that:
   - are sent to individual e-mail addresses, or  
-  - are already included in the [FAQ.md](/WebPage/FAQ.md).
+  - are already included in the [FAQ](/WebPage/FAQ.md).
 
 ---
 
@@ -96,10 +96,14 @@ _Björn Eskofier, Syrine Slim, Madeleine Flaucher_
 
 ---
 
+# Information sites
+
 - [Instructions](/WebPage/Instructions/page1.md)
 - [Discussions Sessions Timetable](/WebPage/DiscussionSessions.md)
 - [FAQ](/WebPage/FAQ.md)
 
 ---
+
+# Lectures / Discussion Sessions
 
 1. [Chapter One](/WebPage/Chapters/Chapter1.md)
