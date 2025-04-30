@@ -101,6 +101,7 @@ _Björn Eskofier, Syrine Slim, Madeleine Flaucher_
 - [Instructions](/WebPage/Instructions/page1.md)
 - [Discussions Sessions Timetable](/WebPage/DiscussionSessions.md)
 - [FAQ](/WebPage/FAQ.md)
+- [Exercise](/WebPage/Exercise.md)
 
 ---
 
