@@ -114,5 +114,29 @@ Please watch the following video:
 To learn about the history of HCI, download the following Handout
 📄 [Download PDF](../../02/02_History.pdf)
 
+---
+
+# Humans
+
+## Design for Humans
+Please watch the following video:  
+🔗 [https://www.fau.tv/clip/id/41801](https://www.fau.tv/clip/id/41801)<br>
+📄 [Download PDF](../../03/HCI_SS_2025_03_Humans_1.pdf)
+
+## Excurse: Physiology
+To learn about the relation of physiology and HCI, download the following Handout:
+📄 [Download PDF](../../03/03_Humans_Physiology.pdf)
+
+## Human Processor, Cognitive Abilities and Memory
+Please watch the following video:  
+🔗 [https://www.fau.tv/clip/id/41802](https://www.fau.tv/clip/id/41802)<br>
+📄 [Download PDF](../../03/HCI_SS_2025_03_Humans_2.pdf)
+
+## Visual Perception, Optical Illusion and Gestalt Laws
+To learn about visual perception, optical illusions and Gestalt laws, download the following Handout:
+📄 [Download PDF](../../03/03_Humans_VisualPerc_GesatltLaws.pdf)
+
+## Exercise (ToDo)
+
 
 [Back to start](/README.md)
