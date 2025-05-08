@@ -107,4 +107,5 @@ _Björn Eskofier, Syrine Slim, Madeleine Flaucher_
 
 # Lectures / Discussion Sessions
 
-1. [Chapter One](/WebPage/Chapters/Chapter1.md)
+1. [Lecture One](/WebPage/Lectures/Lecture1.md)
+2. [Lecture Two](/WebPage/Lectures/Lecture2.md)
